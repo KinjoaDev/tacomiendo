@@ -1,0 +1,10 @@
+Paleta de colores
+
+Elemento	Color	Código HEX
+
+Fondo general	Marfil claro / Blanco cálido	#FFF8F0
+Título y textos oscuros	Marrón oscuro	#3B2E2A
+Botón de menú	Amarillo mostaza	#FFC836
+Botón WhatsApp	Verde WhatsApp	#25D366
+Color acento (sombrero)	Verde pasto	#4EAF4F
+Sombras suaves (opcional)	Gris claro	#EAEAEA
